@@ -7,6 +7,6 @@ class Fizzbuzz{
     
 Public function processNumber ($input){
     
-//    return $input;
+    return $input;
     }
 }
